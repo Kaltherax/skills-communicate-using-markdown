@@ -12,3 +12,9 @@
 ``` javascript
 var var1 = "This is a sentence";
 ```
+
+
+- [x] List syntax is required
+- [X] This item is complete
+- [ ] This item is not complete
+- [x] This is great
